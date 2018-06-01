@@ -53,7 +53,7 @@ U 1 1 5AFFA16B
 P 2800 2550
 F 0 "D1" H 2800 2650 50  0000 C CNN
 F 1 "LED" H 2800 2450 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 2550 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 2550 50  0001 C CNN
 F 3 "" H 2800 2550 50  0001 C CNN
 	1    2800 2550
 	1    0    0    -1  
@@ -64,7 +64,7 @@ U 1 1 5AFFA1AD
 P 2800 2650
 F 0 "D2" H 2800 2750 50  0000 C CNN
 F 1 "LED" H 2800 2550 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 2650 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 2650 50  0001 C CNN
 F 3 "" H 2800 2650 50  0001 C CNN
 	1    2800 2650
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5AFFA1E9
 P 2800 2750
 F 0 "D3" H 2800 2850 50  0000 C CNN
 F 1 "LED" H 2800 2650 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 2750 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 2750 50  0001 C CNN
 F 3 "" H 2800 2750 50  0001 C CNN
 	1    2800 2750
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5AFFA230
 P 2800 2850
 F 0 "D4" H 2800 2950 50  0000 C CNN
 F 1 "LED" H 2800 2750 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 2850 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 2850 50  0001 C CNN
 F 3 "" H 2800 2850 50  0001 C CNN
 	1    2800 2850
 	1    0    0    -1  
@@ -97,7 +97,7 @@ U 1 1 5AFFA25E
 P 2800 2950
 F 0 "D5" H 2800 3050 50  0000 C CNN
 F 1 "LED" H 2800 2850 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 2950 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 2950 50  0001 C CNN
 F 3 "" H 2800 2950 50  0001 C CNN
 	1    2800 2950
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 5AFFA2A5
 P 2800 3050
 F 0 "D6" H 2800 3150 50  0000 C CNN
 F 1 "LED" H 2800 2950 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 3050 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 3050 50  0001 C CNN
 F 3 "" H 2800 3050 50  0001 C CNN
 	1    2800 3050
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5AFFA605
 P 3250 2550
 F 0 "R1" V 3330 2550 50  0000 C CNN
 F 1 "220" V 3250 2550 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 2550 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 2550 50  0001 C CNN
 F 3 "" H 3250 2550 50  0001 C CNN
 	1    3250 2550
 	0    1    1    0   
@@ -130,7 +130,7 @@ U 1 1 5AFFA793
 P 3250 2650
 F 0 "R2" V 3330 2650 50  0000 C CNN
 F 1 "220" V 3250 2650 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 2650 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 2650 50  0001 C CNN
 F 3 "" H 3250 2650 50  0001 C CNN
 	1    3250 2650
 	0    1    1    0   
@@ -141,7 +141,7 @@ U 1 1 5AFFA7E3
 P 3250 2750
 F 0 "R3" V 3330 2750 50  0000 C CNN
 F 1 "220" V 3250 2750 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 2750 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 2750 50  0001 C CNN
 F 3 "" H 3250 2750 50  0001 C CNN
 	1    3250 2750
 	0    1    1    0   
@@ -152,7 +152,7 @@ U 1 1 5AFFA844
 P 3250 2850
 F 0 "R4" V 3330 2850 50  0000 C CNN
 F 1 "220" V 3250 2850 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 2850 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 2850 50  0001 C CNN
 F 3 "" H 3250 2850 50  0001 C CNN
 	1    3250 2850
 	0    1    1    0   
@@ -163,7 +163,7 @@ U 1 1 5AFFA89E
 P 3250 2950
 F 0 "R5" V 3330 2950 50  0000 C CNN
 F 1 "220" V 3250 2950 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 2950 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 2950 50  0001 C CNN
 F 3 "" H 3250 2950 50  0001 C CNN
 	1    3250 2950
 	0    1    1    0   
@@ -174,7 +174,7 @@ U 1 1 5AFFA90E
 P 3250 3050
 F 0 "R6" V 3330 3050 50  0000 C CNN
 F 1 "220" V 3250 3050 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 3050 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 3050 50  0001 C CNN
 F 3 "" H 3250 3050 50  0001 C CNN
 	1    3250 3050
 	0    1    1    0   
@@ -218,7 +218,7 @@ U 1 1 5B0C9ACD
 P 5400 3350
 F 0 "C1" H 5425 3450 50  0000 L CNN
 F 1 "0.1uf" H 5425 3250 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0402_NoSilk" H 5438 3200 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:C_0402_NoSilk_NoText" H 5438 3200 50  0001 C CNN
 F 3 "" H 5400 3350 50  0001 C CNN
 	1    5400 3350
 	1    0    0    -1  
@@ -314,7 +314,7 @@ U 1 1 5AFFAA61
 P 3250 3450
 F 0 "R9" V 3330 3450 50  0000 C CNN
 F 1 "220" V 3250 3450 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 3450 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 3450 50  0001 C CNN
 F 3 "" H 3250 3450 50  0001 C CNN
 	1    3250 3450
 	0    1    1    0   
@@ -325,7 +325,7 @@ U 1 1 5AFFA356
 P 2800 3450
 F 0 "D9" H 2800 3550 50  0000 C CNN
 F 1 "LED" H 2800 3350 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 3450 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 3450 50  0001 C CNN
 F 3 "" H 2800 3450 50  0001 C CNN
 	1    2800 3450
 	1    0    0    -1  
@@ -400,7 +400,7 @@ U 1 1 5B0F64F0
 P 3250 3550
 F 0 "R10" V 3330 3550 50  0000 C CNN
 F 1 "220" V 3250 3550 50  0000 C CNN
-F 2 "" V 3180 3550 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 3550 50  0001 C CNN
 F 3 "" H 3250 3550 50  0001 C CNN
 	1    3250 3550
 	0    1    1    0   
@@ -411,7 +411,7 @@ U 1 1 5B0F6C0D
 P 2800 3550
 F 0 "D10" H 2800 3650 50  0000 C CNN
 F 1 "LED" H 2800 3450 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 3550 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 3550 50  0001 C CNN
 F 3 "" H 2800 3550 50  0001 C CNN
 	1    2800 3550
 	1    0    0    -1  
@@ -438,7 +438,7 @@ U 1 1 5B0F89AB
 P 3250 3150
 F 0 "R7" V 3330 3150 50  0000 C CNN
 F 1 "220" V 3250 3150 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 3150 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 3150 50  0001 C CNN
 F 3 "" H 3250 3150 50  0001 C CNN
 	1    3250 3150
 	0    1    1    0   
@@ -449,7 +449,7 @@ U 1 1 5B0F8A17
 P 3250 3250
 F 0 "R8" V 3330 3250 50  0000 C CNN
 F 1 "220" V 3250 3250 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 3180 3250 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:R_1206_HandSoldering_NoSilk" V 3180 3250 50  0001 C CNN
 F 3 "" H 3250 3250 50  0001 C CNN
 	1    3250 3250
 	0    1    1    0   
@@ -460,7 +460,7 @@ U 1 1 5B0F8A82
 P 2800 3150
 F 0 "D7" H 2800 3250 50  0000 C CNN
 F 1 "LED" H 2800 3050 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 3150 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 3150 50  0001 C CNN
 F 3 "" H 2800 3150 50  0001 C CNN
 	1    2800 3150
 	1    0    0    -1  
@@ -471,7 +471,7 @@ U 1 1 5B0F8AF0
 P 2800 3250
 F 0 "D8" H 2800 3350 50  0000 C CNN
 F 1 "LED" H 2800 3150 50  0000 C CNN
-F 2 "LEDs:LED_1206_HandSoldering" H 2800 3250 50  0001 C CNN
+F 2 "mrmeeseeks-addon-lib:LED_1206_HandSoldering_MinSilk" H 2800 3250 50  0001 C CNN
 F 3 "" H 2800 3250 50  0001 C CNN
 	1    2800 3250
 	1    0    0    -1  
