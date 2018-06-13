@@ -1,4 +1,4 @@
-update=5/30/2018 9:39:04 PM
+update=6/13/2018 9:35:27 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,4 +61,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=C:/Users/woodd/OneDrive/Documents/GitHub/mrmeeseeks-addon/lib/badgelife_shitty_connector
+LibName33=lib/badgelife_shitty_connector
+LibName34=lib/INTERFACE-MCP23017-E_SOIC28_
