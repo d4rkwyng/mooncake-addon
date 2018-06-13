@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"mooncake-soldermask";1;"LOGO";;;
+2;"X1";"Badgelife-Shitty-2x2";1;"Badgelife_shitty_connector";;;
+3;"R9,R10,R8,R7,R6,R5,R4,R3,R2,R1";"R_1206_HandSoldering_NoSilk";10;"220";;;
+4;"D10,D1,D2,D3,D4,D5,D6,D7,D8,D9";"LED_1206_HandSoldering_MinSilk";10;"LED";;;
+5;"G***";"mooncake-silkscreen";1;"LOGO";;;
+6;"C1";"C_1206_HandSoldering_NoSilk";1;"0.1uf";;;
+7;"U1";"SOIC28-1.27-17.9X7.5MM_NoSilk";1;"MCP23017";;;
+8;"G***";"gary_soldermask";1;"LOGO";;;
+9;"G***";"d4rkwyng";1;"LOGO";;;
+10;"G***";"d4rkwyng_solder";1;"LOGO";;;
