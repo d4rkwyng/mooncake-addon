@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name lib)(type KiCad)(uri "$(KIPRJMOD)/lib")(options "")(descr ""))
+  (lib (name mooncake-design)(type KiCad)(uri "$(KIPRJMOD)/design")(options "")(descr ""))
+  (lib (name mrmeeseeks-addon-lib)(type KiCad)(uri "$(KIPRJMOD)/lib")(options "")(descr ""))
+  (lib (name mooncakes-lib)(type KiCad)(uri "$(KIPRJMOD)/lib")(options "")(descr ""))
+)

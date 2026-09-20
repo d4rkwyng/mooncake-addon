@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../mrmeeseeks-addon/lib
+LibDir=lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -62,4 +62,3 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=lib/badgelife_shitty_connector
-LibName34=lib/INTERFACE-MCP23017-E_SOIC28_
