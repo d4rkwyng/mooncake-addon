@@ -1,4 +1,4 @@
-(module MCP23017-SSO_NoSilk (layer F.Cu) (tedit 5B280A3E)
+(module MCP23017-ESS_NoSilk (layer F.Cu) (tedit 5B280A3E)
   (attr smd)
   (fp_text reference U1 (at -1.4629 -6.64819) (layer F.Fab)
     (effects (font (size 1.00199 1.00199) (thickness 0.05)))

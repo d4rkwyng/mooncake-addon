@@ -3,6 +3,9 @@
 *-bak
 *.kicad_pcb-bak
 
+# KiCad local project preferences (view state, not shared project data)
+*.kicad_prl
+
 # macOS system files
 .DS_Store
 ._*

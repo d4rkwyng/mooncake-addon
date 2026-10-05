@@ -1,4 +1,4 @@
-(module SOIC28-1.27-17.9X7.5MM_NoSilk (layer F.Cu) (tedit 5B217D36)
+(module MCP23017-ESO_NoSilk (layer F.Cu) (tedit 5B217D36)
   (attr smd)
   (fp_text reference U1 (at -10.0068 0.127481 90) (layer F.Fab)
     (effects (font (size 0.702618 0.702618) (thickness 0.05)))
