@@ -12,3 +12,6 @@
 
 # Photoshop temp files
 ~*
+
+# KiCad per-user footprint info cache
+fp-info-cache
