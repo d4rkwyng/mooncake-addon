@@ -14,7 +14,7 @@ Created by @d4rkwyng. Thanks to [AND!XOR](https://www.andnxor.com/) and SparX fo
 
 | Ref | Component | Package | Qty |
 |-----|-----------|---------|-----|
-| U1 | MCP23017 (Rev C: MCP23017-E/SO; Rev C ESO: MCP23017-E/SS) | Rev C: SOIC-28 (1.27 mm pitch); Rev C ESO: SSOP-28 (0.65 mm pitch) | 1 |
+| U1 | MCP23017 (Rev A / B / C: MCP23017-E/SO; Rev C ESO: MCP23017-E/SS) | Rev A / B / C: SOIC-28 (1.27 mm pitch); Rev C ESO: SSOP-28 (0.65 mm pitch) | 1 |
 | D1-D10 | LED | 1206 | 10 |
 | R1-R10 | 220 ohm | 1206 | 10 |
 | C1 | 0.1uF | Rev C / C ESO: 1206; Rev A / B: 0402 | 1 |
